@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "shipping", "shipping\shipping.vbproj", "{1E695ECF-B226-4FE2-A154-B185C391D27B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E695ECF-B226-4FE2-A154-B185C391D27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E695ECF-B226-4FE2-A154-B185C391D27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E695ECF-B226-4FE2-A154-B185C391D27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E695ECF-B226-4FE2-A154-B185C391D27B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
